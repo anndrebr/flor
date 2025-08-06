@@ -1,0 +1,5 @@
+Passo1: cd desktop
+Passo2: mkdir flor
+Passo3: Cd flor
+Passo4: git init
+Passo5: Criar documento no reposotório
